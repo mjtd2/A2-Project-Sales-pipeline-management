@@ -1,0 +1,7 @@
+0,Open lead,0,false
+1,Attempted to contact,0,false
+2,No lead (closed),0,true
+3,Opportunity - will close this quarter,95,false
+4,Opportunity - might close this quarter,25,false
+5,Opportunity - long term,5,false
+6,Opportunity - closed (lost),0,true
